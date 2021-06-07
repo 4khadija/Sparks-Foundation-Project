@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="f" x1="28.109" x2="31.291" y1="9.7984" y2="38.807" gradientTransform="matrix(1.7306 0 0 1.3876 -14.168 -2.6001)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5d7a7a" offset="0"/>
+   <stop stop-color="#d2dddd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="8.0455" x2="50.489" y1="14.305" y2="14.305" gradientTransform="matrix(1.4841 0 0 1.4841 -10.985 -5.1953)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e9eae5" offset="0"/>
+   <stop stop-color="#cfd7eb" stop-opacity=".9569" offset="1"/>
+  </linearGradient>
+  <linearGradient id="d" x1="21.763" x2="21.499" y1="26.49" y2="13.263" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d6ebf7" offset="0"/>
+   <stop stop-color="#d8ecf7" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x1="28.909" x2="29.013" y1="26.49" y2="9.985" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8ecf7" offset="0"/>
+   <stop stop-color="#d8ecf7" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x1="41.154" x2="41.258" y1="26.607" y2="11.624" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8ecf7" offset="0"/>
+   <stop stop-color="#d8ecf7" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="48.791" x2="48.771" y1="26.49" y2="11.975" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d8ecf7" offset="0"/>
+   <stop stop-color="#d8ecf7" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(1.0057 0 0 1.0057 1.2749 60.529)" stroke="#000" stroke-linejoin="round">
+  <path d="m7.8383-35.141h45.905v24.709h-45.905z" stroke-width="1.5809"/>
+  <g transform="matrix(1.5141 0 0 1.5847 -22.055 -69.384)">
+   <path d="m19.813 20.545h3.6364v17.273h-3.6364z"/>
+   <path d="m27.449 20.545h3.6364v17.273h-3.6364z"/>
+   <path d="m47.085 20.545h3.6364v17.273h-3.6364z"/>
+   <path d="m39.449 20.545h3.6364v17.273h-3.6364z"/>
+  </g>
+  <path d="m0.16919-6.479h61.662v2.6319h-61.662z" stroke-width=".80003"/>
+  <path d="m-0.91613-35.716 32.499-18.366 30.791 18.584z" stroke-width="1.5141px"/>
+  <path d="m2.8929-9.6761h55.391v2.6319h-55.391z" stroke-width=".80003"/>
+ </g>
+ <rect x="9.7461" y="25.403" width="45.905" height="24.401" fill="url(#f)" stroke="#ccd1d1" stroke-linejoin="round" stroke-width="1.5496"/>
+ <rect x="27.321" y="34.034" width="11.079" height="15.571" fill="#be8c47" stroke="#937348" stroke-linejoin="round" stroke-width="1.2786"/>
+ <g transform="matrix(1.4841 0 0 1.5533 -19.555 -8.1615)" stroke="#ccd1d1" stroke-linejoin="round">
+  <rect x="19.69" y="21.599" width="3.7589" height="16.219" fill="url(#d)"/>
+  <rect x="27.204" y="21.599" width="3.8814" height="16.219" fill="url(#c)"/>
+  <rect x="47.085" y="21.482" width="3.6364" height="16.336" fill="url(#a)"/>
+  <rect x="39.449" y="21.599" width="3.6364" height="16.219" fill="url(#b)"/>
+ </g>
+ <rect x="2.2288" y="53.498" width="60.44" height="2.5797" fill="#dde4e4" stroke="#cad3d3" stroke-linejoin="round" stroke-width=".78418"/>
+ <path d="m1.6966 24.486 30.987-17.471 30.517 18.039z" fill="url(#e)" stroke="#ccd1d1" stroke-linejoin="round" stroke-width="1.4841px"/>
+ <rect x="4.8985" y="50.364" width="54.294" height="2.5797" fill="#dde4e4" stroke="#cad3d3" stroke-linejoin="round" stroke-width=".78418"/>
+ <text x="27.0546" y="23.200548" fill="#803300" font-family="Sans" font-size="19.158px" letter-spacing="0px" word-spacing="0px" line-height="125%" xml:space="preserve">
+      <tspan x="27.0546" y="23.200548">$</tspan>
+    </text>
+</svg>
